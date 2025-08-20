@@ -1,7 +1,3 @@
-# tvaf.github.io
-Test repo for HTML page
-
-<!DOCTYPE html>
 <html>
   <head>
     <title>POC Task Pane</title>
